@@ -12,7 +12,7 @@ ChontentEditableは今開いているページにcontenteditable属性を追加�
 
 ScreenShots
 ----
-![ScreenShot](https://raw.github.com/shoito/chontenteditable-chrome-extension/master/screenshots/1280x800.png)
+![ScreenShot](https://raw.github.com/shoito/chontenteditable-chrome-extension/master/screenshots/1280x800_0.png)
 
 License
 ----
