@@ -1,0 +1,8 @@
+{
+    "extDescription": {
+        "message": "ChontentEditable is the Chrome extension which adds a contenteditable attribute to a page open now and whose edit it enables freely. "
+    },
+    "extName": {
+        "message": "ChontentEditable"
+    }
+}

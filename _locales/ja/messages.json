@@ -1,0 +1,8 @@
+{
+    "extDescription": {
+        "message": "ChontentEditableは今開いているページにcontenteditable属性を追加して、自由に編集可能にするChrome拡張です。ポチッとボタンを押して、ページ内のテキストをいじってみてください。"
+    },
+    "extName": {
+        "message": "ChontentEditable"
+    }
+}
