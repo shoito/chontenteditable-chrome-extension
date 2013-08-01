@@ -1,10 +1,10 @@
-chromeeditable
+ChontentEditable
 ============
-ChontentEditableは今開いているページにcontenteditable属性を追加して、自由に編集可能にするChrome拡張です。
+ChontentEditableは今Chromeで開いているページを自由に編集可能にするChrome拡張です。
 
 ポチッとボタンを押して、ページ内のテキストをいじってみてください。
 
-コソッとページ内にcontenteditable属性を付けて、下記のようなことを気軽に行えるChrome拡張です。
+コソッとページ内にcontenteditable属性を付けて、下記のようなことを気軽に行えるようにしてくれます。
 
  - Webページのスクリーンショットを撮るときにちょっとだけ書き換えたり
 
